@@ -66,7 +66,7 @@ We believe in **open knowledge** and **community growth**. This free service all
 |----------------|----------------|
 | **Telegram Channel** | [@kael_privateresearchcore](https://t.me/kael_privateresearchcore) |
 | **Founder (Telegram)** | [@kaelion_kprc](https://t.me/kaelion_kprc) |
-| **Email** | [kael.privateresearchcore@gmail.com](mailto:kael.privateresearchcore@gmail.com) |
+| **Email** | [kael.privateresearchcore@gmail.com](mailto:kael-privateresearchcore@hotmail.com) |
 | **Official Website** | [kaelprivateresearchcore.dpdns.org](https://kaelprivateresearchcore.dpdns.org) |
 
 ---
